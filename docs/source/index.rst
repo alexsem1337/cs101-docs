@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+Welcome to CS101 BOOTCAMP Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Description to be added. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`setup` section for all the necessary software that needs to be installed / configured on your personal computer.
+
 
 .. note::
 
-   This project is under active development.
+   All the materials of this course will be released before each Week. Please check the Documentation periodically.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   setup
    api
