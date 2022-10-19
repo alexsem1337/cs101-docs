@@ -22,12 +22,12 @@ html_theme_options = {
     "prev_next_buttons_location": False,
     "sticky_navigation": False
 }
-html_title = "CS50 Docs"
+html_title = "CS101 Documentation"
 
 myst_heading_anchors = 6
 
-ogp_image = "https://cs50.readthedocs.io/_images/2ep2od.jpg"
+ogp_image = "https://cs101.readthedocs.io/_images/2ep2od.jpg"
 ogp_image_alt = "ALL THE DOCS"
-ogp_site_url = "https://cs50.readthedocs.io/"
+ogp_site_url = "https://cs101.readthedocs.io/"
 
-project = "CS50 Docs"
+project = "CS101"
