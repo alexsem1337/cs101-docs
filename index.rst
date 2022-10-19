@@ -51,13 +51,6 @@
    C <style/c>
 
 .. toctree::
-   :caption: Themes
-   :hidden:
-   :maxdepth: 1
-
-   Jekyll <themes/jekyll>
-
-.. toctree::
    :caption: Third-Party Software
    :hidden:
    :maxdepth: 1
@@ -70,21 +63,6 @@
    terminal
    zoom
 
-.. toctree::
-   :caption: Web Apps
-   :hidden:
-   :maxdepth: 1
-
-   forms
-   id
-   ide/index
-   lab
-   render
-   sandbox
-   time
-   vault
-   video
-   code
 
 .. image:: 2ep2od.jpg
   :alt: All the Docs
